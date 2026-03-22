@@ -7,15 +7,13 @@ I am a dedicated career changer currently transitioning from the logistics indus
 
     🎨 Background: Strong interest in Media Design, which influences my approach to frontend development and UI/UX.
 
-    ⚡ Fun Fact: After 10 years in logistics, I know how to deliver results under pressure – now I'm just delivering code instead of packages.
-
 🛠️ Tech Stack & Tools
 
     Languages: JavaScript (ES6+), HTML5, CSS3
 
     Tools: Git, VS Code, Chrome DevTools
 
-    Languages: German (Native), English (B2)
+    Languages: German (Native), Turkish (Native), English (B2)
 
 📂 Featured Projects
 
